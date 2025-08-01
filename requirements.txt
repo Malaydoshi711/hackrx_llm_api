@@ -8,3 +8,4 @@ faiss-cpu
 PyMuPDF
 httpx
 python-dotenv
+langchain-openai
